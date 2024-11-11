@@ -1,0 +1,10 @@
+[package]
+name = "forest-adventure-game"
+version = "0.1.0"
+authors = ["pizzalover125"]
+edition = "2021"
+description = "A basic text-based adventure game in a forest"
+license = "MIT"
+
+[dependencies]
+rand = "0.8"
